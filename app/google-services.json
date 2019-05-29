@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "66953448097",
+    "firebase_url": "https://tracking-559bd.firebaseio.com",
+    "project_id": "tracking-559bd",
+    "storage_bucket": "tracking-559bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66953448097:android:293908eae9e780ab",
+        "android_client_info": {
+          "package_name": "com.anand.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66953448097-gb06o3i1kdsf89rhi14kb83doereqlod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anand.myapplication",
+            "certificate_hash": "79e658bd8622b81bc89d555590a98bbe2d5a3ad5"
+          }
+        },
+        {
+          "client_id": "66953448097-nb1api21cp2jakmir4v3vj9bfvocgok1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqETvYTp66JwxUqBi0UHr24l6NZhPr6rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66953448097-nb1api21cp2jakmir4v3vj9bfvocgok1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
